@@ -1,0 +1,10 @@
+1. Open "Seven Nexus" Folder
+
+2. Run "SevenNexus.exe" and Play
+   (Located in: SevenNexus.exe)
+
+Run "Make A Shortcut On Desktop ^(RUN ME^).bat" to make shortcut
+
+Download from: GameDrive.Org
+
+Join For Help: https://gamedrive.org/discord
